@@ -3,10 +3,10 @@
 <h1 align ='center'> Hi there 👋, I am Lalo Castillo </h1>
 <h3 align ='center'> I am passionate about data analysis, machine learning & deep learning, artificial intelligence and new technological trends.</h3>
 </div>
----
+
 ### About me 👋
 
-<!--
+
 **Lalo5213/Lalo5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 19castillog20@gmail.com ...
 - 😄 Pronouns: Lalos19...
 - ⚡ Fun fact: ...
--->
+---
