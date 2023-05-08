@@ -3,7 +3,6 @@
 <h1 align ='center'> Hi there 👋, I am Lalo Castillo </h1>
 <h3 align ='center'> I am passionate about data analysis, machine learning & deep learning, artificial intelligence and new technological trends.</h3>
 </div>
----
 ### About me 👋
 
 - 🌱 I’m currently learning Machine Learning & Deep Learning, DB, AWS Data Engineer and python.  ...
