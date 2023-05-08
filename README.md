@@ -1,5 +1,5 @@
 <div id=" header" align="center">
-<img src="https://media.giphy.com/media/MarRSACy8q3MPtXKQq/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/MarRSACy8q3MPtXKQq/giphy.gif" width="400" />
 <h1 align ='center'> Hi there 👋, I am Lalo Castillo </h1>
 <h3 align ='center'> I am passionate about data analysis, machine learning & deep learning, artificial intelligence and new technological trends.</h3>
 </div>
