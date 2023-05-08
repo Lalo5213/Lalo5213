@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id=" header" align="center">
+<img src="https://media.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif" width="200" />
+<h1 align ='center'> Hi there 👋, I am Lalo Castillo </h1>
+<h3 align ='center'> I am passionate about data analysis, machine learning & deep learning, artificial intelligence and new technological trends.</h3>
+</div>
+---
+### About me 👋
 
 <!--
 **Lalo5213/Lalo5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
